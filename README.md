@@ -1,7 +1,8 @@
 <div align="center">
-  <span style="font-size: 80px;">Welcome to Mohamed Shehta's Profile</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Hand Icon" />
+  <span style="font-size: 50px; font-weight: bold;">Welcome to Mohamed Shehta's Profile</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Hand Icon" />
 </div>
+
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;%20Building%20Innovative%20Apps%20Every%20Day&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=22">
