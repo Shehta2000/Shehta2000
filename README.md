@@ -4,63 +4,67 @@
 ---
 
 ## 👨‍💻 About Me:
-Hi! I’m **Mohamed Shehta**, a **Flutter Developer** with a passion for building modern, scalable, and efficient mobile applications. I hold a **Bachelor of Engineering** from **Suez Canal University** and specialize in **Flutter** & **Dart** development.
+Hello! I’m **Mohamed Shehta**, a **Flutter Developer** focused on creating modern, scalable, and high-performance mobile applications. I hold a **Bachelor of Engineering** from **Suez Canal University**. My passion lies in solving real-world problems through technology while delivering excellent user experiences.
 
-I am driven by the challenge of solving complex problems and crafting clean, maintainable code. I believe in the power of community and continuously contribute to open-source projects while learning and exploring new technologies.
+- 🌱 **Always learning new technologies** to stay at the forefront of the mobile development field.
+- 🚀 **Flutter & Dart** are my core strengths.
+- 🔍 Optimizing app performance and building smooth, scalable solutions.
 
-- 🚀 **Flutter** | **Dart**
-- 🔍 Passionate about optimizing app performance and architecture.
-- 🎯 Focused on creating seamless experiences for both Android and iOS platforms.
-- 📚 Always learning, always improving.
-- 🌐 Open to collaborations and open-source contributions.
+I am always eager to collaborate and contribute to open-source projects that improve the mobile development ecosystem.
+
 - 📫 Reach me at: **mohamedshehta819@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack:
-- **Languages**: Dart, JavaScript, HTML, CSS
-- **Frameworks**: Flutter, Firebase
-- **Tools**: Android Studio, Visual Studio Code, Git, GitHub
-- **State Management**: Bloc, Cubit, Provider
-- **Database**: Firebase Firestore, Hive
-- **Version Control**: Git, GitHub
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=gradient">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=gradient">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&color=gradient">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&color=gradient">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=gradient">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=gradient">
+</p>
 
 ---
 
 ## 📂 Featured Projects:
 
 ### 📝 **[Notebox App](https://github.com/Shehta2000/Notes-Application)**
-A modern and efficient **notes app** utilizing **Hive** for local storage and **Cubit** for state management. The app is optimized for performance, offering smooth and responsive UX.
+A highly optimized **Notes App** with **Hive** for local storage and **Cubit** for state management. Built for performance and scalability, providing smooth UX and high usability.
 
 ### 📘 **[Bookly App](https://github.com/Shehta2000/Bookly)**
-A sleek and user-friendly **book management app** with real-time **Firebase** backend integration. Perfect for managing your reading collection and tracking progress with ease.
+A sleek **book management app**, allowing users to track and manage their reading collection with ease. Integrated with **Firebase** for real-time synchronization and user management.
 
 ---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shehta2000&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehta2000&theme=radical&layout=compact&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shehta2000&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehta2000&theme=dracula&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🌱 Currently Focused On:
-- Building and refining Flutter apps with best practices in mind.
-- Exploring advanced **state management** solutions like **Bloc** and **Cubit**.
-- Contributing to the **Flutter** and **Dart** ecosystem through open-source projects.
+- Mastering advanced **state management** with **Bloc** and **Cubit**.
+- Contributing to the **Flutter** community and open-source projects.
+- Continuously improving app performance and learning new techniques.
 
 ---
 
-## 💬 Let's Connect:
+## 💬 Let’s Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-shehta-3b43051a4/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/Shehta2000)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/ShehtaMohamed)
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&color=gradient)](https://www.linkedin.com/in/mohamed-shehta-3b43051a4/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&color=gradient)](https://github.com/Shehta2000)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white&color=gradient)](https://twitter.com/ShehtaMohamed)
+</p>
 
 ---
 
 ## 🎯 Fun Fact:
-🌱 I strive to contribute to open-source projects that aim to improve the developer community and make a real-world impact. Whether it's optimizing code or exploring new mobile tech, I’m always up for a challenge!
+🌱 I am deeply committed to open-source contributions that make a tangible impact on the developer community. I believe in learning by sharing and continuously improving.
 
