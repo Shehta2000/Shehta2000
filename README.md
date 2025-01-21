@@ -1,69 +1,75 @@
-# Mohamed Shehta | Flutter Developer & Engineer
-
-Welcome to my GitHub profile! I'm a passionate **Flutter Developer** with a strong foundation in building efficient and scalable mobile applications. I enjoy problem-solving and staying up-to-date with the latest mobile development trends and technologies.
+# Mohamed Shehta | Flutter Mobile Developer
 
 ---
 
-## 🌟 About Me
+### 🚀 About Me
 
-I am a **Bachelor of Engineering** graduate from **Suez Canal University**, specializing in mobile development with **Flutter**. I am committed to creating user-centric, high-performance apps and always strive for innovation and optimization.
+I'm a **Flutter Mobile Developer** with a strong background in building high-performance and scalable applications. I'm passionate about crafting seamless user experiences and solving complex problems through clean and efficient code. With a degree in **Engineering** from **Suez Canal University**, I focus on creating apps that are both user-friendly and technically robust.
 
-- 💼 Experienced in building scalable applications using **Flutter**, **Dart**, and **Firebase**.
-- 🔄 Focused on delivering well-architected apps with a strong emphasis on **performance** and **maintainability**.
-- 🌱 Currently deepening my knowledge in **state management**, **block-based architecture**, and **advanced Flutter concepts**.
-- 📚 Actively contributing to the open-source community and collaborating on meaningful projects.
+- 💻 Skilled in **Flutter**, **Dart**, and **Firebase** for mobile app development.
+- 🧠 Always learning new technologies to stay ahead of trends and improve my craft.
+- 📈 Focused on **state management**, **performance optimization**, and **UI/UX design**.
 
----
-
-## 🛠️ Technical Skills
-
-### Core Competencies:
-
-- **Languages**: **Dart**, **JavaScript**, **SQL**
-- **Frameworks/Tools**: **Flutter**, **Firebase**, **Hive**, **Git**, **Android Studio**, **Visual Studio Code**
-- **State Management**: **BLoC**, **Cubit**, **Provider**
-- **Databases**: **Firebase Firestore**, **Hive**, **SQLite**
-- **CI/CD Tools**: **GitHub Actions**, **Fastlane**
+Feel free to explore my work below and connect if you’re interested in collaborating!
 
 ---
 
-## 💼 Featured Projects
+### 📚 Projects
 
-### **Notebox: A Notes Management App**
-**Notebox** is a powerful and lightweight notes app that leverages **Hive** for local storage and **Cubit** for state management. It provides a clean, efficient interface for creating, editing, and managing notes, with optimized performance for mobile devices.
+#### **Notebox App**
+A modern and lightweight note-taking app built with **Flutter**, **Hive** (for local storage), and **Cubit** (for state management). The app supports adding, editing, and organizing notes efficiently.
 
-- **Key Technologies**: **Flutter**, **Hive**, **Cubit**
-- **Repository**: [Notebox App](https://github.com/Shehta2000/Notes-Application)
+**Technologies**: Flutter, Hive, Cubit, SQLite  
+🔗 [View Repository](https://github.com/Shehta2000/Notes-Application)
 
-### **Bookly: A Book Management App**
-**Bookly** allows users to manage their personal book collection and keep track of their reading habits. With intuitive UI and seamless integration with Firebase, **Bookly** ensures smooth data synchronization and real-time updates.
+#### **Bookly App**
+A sleek app for managing a personal book collection with real-time sync, allowing users to add books, rate them, and track their reading progress.
 
-- **Key Technologies**: **Flutter**, **Firebase**
-- **Repository**: [Bookly App](https://github.com/Shehta2000/Bookly)
+**Technologies**: Flutter, Firebase, Cloud Firestore  
+🔗 [View Repository](https://github.com/Shehta2000/Bookly)
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Tech Stack
 
+**Languages & Frameworks**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Database & Storage**  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🌟 GitHub Stats
+
+#### My Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shehta2000&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehta2000&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shehta2000&show_icons=true&theme=merko&hide_border=true" alt="GitHub Stats" width="400"/>
+</p>
+
+#### Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shehta2000&theme=merko&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🌱 Current Focus & Learning Path
+### 🎯 Learning & Goals
 
-- **Improving my expertise** in **state management** and **BLoC architecture** for large-scale apps.
-- **Contributing to open-source projects** that aim to solve real-world problems.
-- Exploring **Flutter’s web and desktop capabilities** to expand my development scope.
-- Enhancing **app performance optimization** to build faster, more efficient apps.
+- **Deepening my expertise** in **BLoC** and **Provider** for better state management in large-scale apps.
+- Building apps that are optimized for **performance** and **scalability**.
+- **Contributing to open-source projects** and growing my professional network.
 
 ---
 
-## 🔗 Connect with Me
-
-Feel free to reach out to discuss any collaboration or to ask questions regarding Flutter and mobile development.
+### 📫 Get in Touch
 
 - **LinkedIn**: [Mohamed Shehta](https://www.linkedin.com/in/mohamed-shehta-3b43051a4/)
 - **GitHub**: [@Shehta2000](https://github.com/Shehta2000)
@@ -71,9 +77,8 @@ Feel free to reach out to discuss any collaboration or to ask questions regardin
 
 ---
 
-## 🎯 Fun Fact
-
-I believe in constant growth—whether it’s through coding, learning new technologies, or engaging with the developer community. My goal is to build meaningful solutions and help others through open-source contributions.
+### 💬 Fun Fact
+I'm passionate about **open-source** and regularly contribute to projects that can help developers solve real-world problems. Whether it's improving mobile development tools or creating better user experiences, I’m always striving to learn and grow.
 
 ---
 
