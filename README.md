@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer%20%20&font=Fira%20Code&center=true&width=500&height=50&color=FF5738&vCenter=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=20%Welcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer%20%20&font=Fira%20Code&center=true&width=500&height=50&color=FF5738&vCenter=true&size=24">
   </a>
 </div>
 
@@ -42,7 +42,8 @@ An efficient, modern **note-taking app** that uses **Hive** for local storage an
 🔗 [Explore the repository](https://github.com/Shehta2000/Notes-Application)  
 
 #### 📚 **Bookly App**  
-A sleek **book management app** with a stunning UI and seamless **Firebase** integration for cloud data synchronization and real-time updates.
+A sleek **
+book management app** with a stunning UI and seamless **Firebase** integration for cloud data synchronization and real-time updates.
 
 🔗 [Explore the repository](https://github.com/Shehta2000/Bookly)
 
