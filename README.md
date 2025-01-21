@@ -1,4 +1,3 @@
-<img width="250" align="right" src="https://avatars.githubusercontent.com/u/138477420?v=4">
 
 <h3 align="center">
   Welcome to Mohamed Shehta's GitHub Profile! 
