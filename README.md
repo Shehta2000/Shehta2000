@@ -14,11 +14,14 @@ I’m **Mohamed Shehta**, an experienced **Flutter Developer** passionate about 
 - **Expertise**: UI/UX design, state management, app optimization
 - **Collaboration**: Always looking to contribute to open-source projects and community-driven initiatives
 
-🌍 **Reach Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]
-(https://www.linkedin.com/in/mohamed-shehta-3b43051a4/)  
+🌍 **Reach Me**  
+You can find me on these platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-shehta-3b43051a4/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Shehta2000)  
-📧 [mohamedshehta819@gmail.com](mailto:mohamedshehta819@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:mohamedshehta819@gmail.com)  
+📧 **Email**: [mohamedshehta819@gmail.com](mailto:mohamedshehta819@gmail.com)
+
 
 ---
 
