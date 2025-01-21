@@ -1,7 +1,7 @@
+# 🖋️ **Welcome to Mohamed Shehta's Profile!**  
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/? 
- lines=WWelcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer%20%20&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer;%20Building%20Innovative%20Apps%20Every%20Day&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=30">
   </a>
 </div>
 
@@ -43,8 +43,7 @@ An efficient, modern **note-taking app** that uses **Hive** for local storage an
 🔗 [Explore the repository](https://github.com/Shehta2000/Notes-Application)  
 
 #### 📚 **Bookly App**  
-A sleek **
-book management app** with a stunning UI and seamless **Firebase** integration for cloud data synchronization and real-time updates.
+A sleek **book management app** with a stunning UI and seamless **Firebase** integration for cloud data synchronization and real-time updates.
 
 🔗 [Explore the repository](https://github.com/Shehta2000/Bookly)
 
@@ -79,4 +78,3 @@ Outside of coding, I love **exploring new technologies** and contributing to **o
 I'm always up for collaborating on **exciting projects** or discussing new **Flutter techniques**. Reach out if you’re interested in contributing to cutting-edge mobile apps.
 
 [![GitHub](https://img.shields.io/badge/Let%27s_Build_Together-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shehta2000)
-
