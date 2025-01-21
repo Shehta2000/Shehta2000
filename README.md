@@ -1,6 +1,7 @@
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=WWelcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer%20%20&font=Fira%20Code&center=true&width=500&height=50&color=FF5738&vCenter=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/? 
+   lines=WWelcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer%20%20&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=30">
   </a>
 </div>
 
