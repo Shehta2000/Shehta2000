@@ -1,6 +1,6 @@
 <div align="center">
   <span style="font-size: 80px;">Welcome to Mohamed Shehta's Profile</span>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Hand Icon" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" alt="Hand Icon" />
 </div>
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
