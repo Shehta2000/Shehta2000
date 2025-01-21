@@ -1,7 +1,7 @@
 # 🖋️ **Welcome to Mohamed Shehta's Profile!**  
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer;%20Building%20Innovative%20Apps%20Every%20Day&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;%20Building%20Innovative%20Apps%20Every%20Day&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=20">
   </a>
 </div>
 
@@ -15,7 +15,8 @@ I’m **Mohamed Shehta**, an experienced **Flutter Developer** passionate about 
 - **Collaboration**: Always looking to contribute to open-source projects and community-driven initiatives
 
 🌍 **Reach Me**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohamed-shehta-3b43051a4/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]
+(https://www.linkedin.com/in/mohamed-shehta-3b43051a4/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Shehta2000)  
 📧 [mohamedshehta819@gmail.com](mailto:mohamedshehta819@gmail.com)
 
