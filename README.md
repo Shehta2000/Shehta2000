@@ -46,7 +46,7 @@
 
 #### 📝 **Notebox App**
 - A modern and efficient notes app powered by **Hive** for local storage and **Cubit** for state management.
-- [View Repository](https://github.com/Shehta2000/Notebox)
+- [View Repository](https://github.com/Shehta2000/Notes-Application)
 
 #### 📘 **Bookly App**
 - A sleek book management app showcasing seamless UI design and powerful backend integrations.
