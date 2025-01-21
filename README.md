@@ -1,7 +1,9 @@
-# 🌟 **Mohamed Shehta**  
-#### Flutter Developer | Mobile App Innovator  
-Welcome to my GitHub profile! Where creativity meets code, and magic happens. ✨  
-![Profile Banner](https://img.shields.io/badge/Welcome_to_My_Profile-100%25-C71585?style=for-the-badge&logo=github&logoColor=white)
+# 🖋️ **Welcome to Mohamed Shehta's Profile!**  
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer%20at%20Heart&font=Fira%20Code&center=true&width=500&height=50&color=FF5733&vCenter=true&size=24">
+  </a>
+</div>
 
 ---
 
