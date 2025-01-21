@@ -1,7 +1,7 @@
 # 🖋️ **Welcome to Mohamed Shehta's Profile!**  
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer;%20Building%20Innovative%20Apps%20Every%20Day&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Mohamed%20Shehta%27s%20Profile!;Flutter%20Developer;%20Building%20Innovative%20Apps%20Every%20Day&font=Fira%20Code&center=true&width=500&height=50&color=F75C7E&vCenter=true&size=20">
   </a>
 </div>
 
@@ -44,6 +44,7 @@ An efficient, modern **note-taking app** that uses **Hive** for local storage an
 
 #### 📚 **Bookly App**  
 A sleek **book management app** with a stunning UI and seamless **Firebase** integration for cloud data synchronization and real-time updates.
+
 
 🔗 [Explore the repository](https://github.com/Shehta2000/Bookly)
 
