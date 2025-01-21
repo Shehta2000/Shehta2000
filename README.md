@@ -1,11 +1,12 @@
 # 👨‍💻 Mohamed Shehta  
-**Flutter Developer | Mobile Application Enthusiast**
+**Flutter Developer | Mobile Application Developer**
 
 ---
 
 ### 🌟 About Me
 
-Hello! I'm **Mohamed Shehta**, a passionate **Flutter Developer** with a Bachelor's degree in **Engineering** from **Suez Canal University**. I am focused on creating high-quality, performant mobile applications, and I love working with cutting-edge technologies to improve user experiences.
+Hello! I'm **Mohamed Shehta**, a passionate **Flutter Developer** with a Bachelor's degree in **Engineering** from **
+Suez Canal University**. I am focused on creating high-quality, performant mobile applications, and I love working with cutting-edge technologies to improve user experiences.
 
 - **Tech Enthusiast**: Always exploring the latest trends in **Flutter**, **Dart**, and **Mobile App Development**.
 - **Problem Solver**: I enjoy tackling complex technical challenges and finding innovative solutions.
